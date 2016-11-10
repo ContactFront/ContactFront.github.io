@@ -14,7 +14,7 @@ permalink: /
         <link rel="shortcut icon" href="{{ site.favicon_img_path }}" />
         {% endif %}
         <link rel="stylesheet" href="{{ "css/front.css" | prepend: site.baseurl }}">
-        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
     </head>
     <body>
         <div class="content">
@@ -29,7 +29,7 @@ permalink: /
                 <ul>
 
                   {% if site.twitter_username %}
-                  <li><a class="fa fa-2x fa-twitter" href="https://twitter.com/{{ site.twitter_username }}"><span class="description">Twitter</span></a></li>
+                  <li><a class="fa fa-lg fa-twitter" href="https://twitter.com/{{ site.twitter_username }}"><span class="description">Twitter</span></a></li>
                   {% endif %}
 
                   {% if site.linkedin_username %}
@@ -65,15 +65,19 @@ permalink: /
                   {% endif %}
 
                   {% if site.google_plus_username %}
-                  <li><a class="fa fa-2x fa-google-plus" href="https://plus.google.com/+{{ site.google_plus_username }}"><span class="description">Google +</span></a></li>
+                  <li><a class="fa fa-lg fa-google-plus" href="https://plus.google.com/+{{ site.google_plus_username }}"><span class="description">Google +</span></a></li>
                   {% endif %}
 
                   {% if site.vine_username %}
                   <li><a class="fa fa-2x fa-vine" href="https://vine.co/{{ site.vine_username }}"><span class="description">Vine</span></a></li>
                   {% endif %}
 
+                  {% if site.telegram_username %}
+                  <li><a class="fa fa-lg fa-telegram" href="http://telegram.me/{{ site.telegram_username }}"><span class="description">Telegram</span></a></li>
+                  {% endif %}
+                    
                   {% if site.steam_username %}
-                  <li><a class="fa fa-2x fa-steam" href="http://steamcommunity.com/id/{{ site.steam_username }}"><span class="description">Steam</span></a></li>
+                  <li><a class="fa fa-lg fa-steam" href="http://steamcommunity.com/profiles/{{ site.steam_username }}"><span class="description">Steam</span></a></li>
                   {% endif %}
 
                   {% if site.soundcloud_username %}
