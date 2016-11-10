@@ -1,8 +1,9 @@
-# http://rkmallik.github.io/
+# http://ContactFront.github.io/
 personal page
 
 Credits:
+* By Ronak Mallik: https://github.com/rkmallik/rkmallik.github.io
 * Jekyll simple, static site generator: https://github.com/jekyll/jekyll
-* Currently using the front-cover Jekyll theme https://github.com/dashingcode/front-cover
-* Which makes use of the amazing Font Awesome icons: http://fontawesome.io/
+* Front-cover Jekyll theme https://github.com/dashingcode/front-cover
+* Font Awesome icons: http://fontawesome.io/
 
