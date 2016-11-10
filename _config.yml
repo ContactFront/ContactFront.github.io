@@ -1,28 +1,31 @@
 # Site settings
-name: Ronak Mallik
-description: "Pretty Swell Dude"
-url: "http://rkmallik.com"
+name: S Shen
+description: "Maths & Stats | Linux Newbie | Android Enthusiast | Amature Translator"
+url: ""
 
 
 # Delete the lines you don't need
 # about 5 elements are recomended
-twitter_username: ronak
-linkedin_username: rkmallik
-lastfm_username: bobathia
-github_username:  rkmallik
-facebook_username: rkmallik
-instagram_username:  rkmallik
-flickr_username: ronakm
-email: ronak@rkmallik.com
+twitter_username: Mr_SShen
+google_plus_username: sshen
+# linkedin_username: rkmallik
+# lastfm_username: bobathia
+# github_username:  rkmallik
+# facebook_username: rkmallik
+# instagram_username:  rkmallik
+# flickr_username: ronakm
+telegram_username: S_Shen
+steam_username: 76561198101999878
+# email: ronak@rkmallik.com
 
 avatar: yes
-avatar_img_path: "imgs/IMG_20160816_225358.jpg"
+# avatar_img_path: ""
 # You can link to your GitHub image. That way it will get updated
 # automatically whenever you change your GitHub profile picture
-#avatar_img_path: "https://avatars2.githubusercontent.com/u/17301305"
+avatar_img_path: "https://avatars0.githubusercontent.com/u/13935579"
 
 front_img: yes
-front_img_path: "imgs/bg.jpg"
+front_img_path: "imgs/background.jpg"
 #front_img_path: "https://external.url/image.jpg"
 
 favicon_img: yes
