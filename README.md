@@ -1,5 +1,5 @@
-# http://ContactFront.github.io/
-personal page
+
+### Personal Page
 
 Credits:
 * By Ronak Mallik: https://github.com/rkmallik/rkmallik.github.io
